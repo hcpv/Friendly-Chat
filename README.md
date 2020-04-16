@@ -1,6 +1,6 @@
 # FriendlyChat
 
-This repository contains code for the FriendlyChat app.
+This app was build during the course of udacity 'Firebase in a Weekend: Android'. 
 
 ## Overview
 
